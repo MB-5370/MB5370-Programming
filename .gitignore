@@ -21,6 +21,7 @@
 archive/
 scratch/
 test/
+*Module1_files
 
 # Keywords to ignore
 *archive
